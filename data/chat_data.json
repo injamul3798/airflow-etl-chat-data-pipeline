@@ -1,0 +1,110 @@
+﻿[
+  {
+    "user_id": 1,
+    "message": "Where is my order?",
+    "timestamp": "2026-03-16T10:00:00",
+    "response_time": 2.5
+  },
+  {
+    "user_id": 2,
+    "message": "I want refund",
+    "timestamp": "2026-03-16T10:05:00",
+    "response_time": 5.2
+  },
+  {
+    "user_id": 3,
+    "message": "Can I change my delivery address?",
+    "timestamp": "2026-03-16T10:10:00",
+    "response_time": 3.1
+  },
+  {
+    "user_id": 1,
+    "message": "My package says delivered but I did not receive it.",
+    "timestamp": "2026-03-16T10:18:00",
+    "response_time": 6.4
+  },
+  {
+    "user_id": 4,
+    "message": "How do I update my payment method?",
+    "timestamp": "2026-03-16T10:22:00",
+    "response_time": 2.9
+  },
+  {
+    "user_id": 5,
+    "message": "The app keeps logging me out.",
+    "timestamp": "2026-03-16T10:27:00",
+    "response_time": 4.6
+  },
+  {
+    "user_id": 2,
+    "message": "I was charged twice for the same order.",
+    "timestamp": "2026-03-16T10:34:00",
+    "response_time": 7.1
+  },
+  {
+    "user_id": 6,
+    "message": "Can you help me apply a discount code?",
+    "timestamp": "2026-03-16T10:40:00",
+    "response_time": 2.2
+  },
+  {
+    "user_id": 7,
+    "message": "My order is delayed and I need an update.",
+    "timestamp": "2026-03-16T10:48:00",
+    "response_time": 5.8
+  },
+  {
+    "user_id": 3,
+    "message": "Please cancel my order before it ships.",
+    "timestamp": "2026-03-16T10:55:00",
+    "response_time": 3.7
+  },
+  {
+    "user_id": 8,
+    "message": "I received the wrong size item.",
+    "timestamp": "2026-03-16T11:03:00",
+    "response_time": 4.1
+  },
+  {
+    "user_id": 9,
+    "message": "Do you offer international shipping?",
+    "timestamp": "2026-03-16T11:11:00",
+    "response_time": 1.9
+  },
+  {
+    "user_id": 10,
+    "message": "The tracking link is not working.",
+    "timestamp": "2026-03-16T11:18:00",
+    "response_time": 3.3
+  },
+  {
+    "user_id": 4,
+    "message": "I need an invoice for my purchase.",
+    "timestamp": "2026-03-16T11:26:00",
+    "response_time": 2.7
+  },
+  {
+    "user_id": 11,
+    "message": "Can I return an item after 30 days?",
+    "timestamp": "2026-03-16T11:33:00",
+    "response_time": 4.8
+  },
+  {
+    "user_id": 12,
+    "message": "My coupon code expired before checkout.",
+    "timestamp": "2026-03-16T11:40:00",
+    "response_time": 3.5
+  },
+  {
+    "user_id": 6,
+    "message": "I want to change the quantity in my order.",
+    "timestamp": "2026-03-16T11:49:00",
+    "response_time": 2.4
+  },
+  {
+    "user_id": 13,
+    "message": "The product arrived damaged.",
+    "timestamp": "2026-03-16T11:57:00",
+    "response_time": 6.0
+  }
+]
