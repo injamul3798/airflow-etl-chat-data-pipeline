@@ -1,6 +1,7 @@
 # AI Data Pipeline
 
 An end-to-end data engineering project that ingests chat data, transforms it, loads it into PostgreSQL, and orchestrates the workflow with Apache Airflow.
+<img width="1365" height="660" alt="image" src="https://github.com/user-attachments/assets/e4ca979a-d84f-4c21-856a-0d7153b6b494" />
 
 ## Stack
 
